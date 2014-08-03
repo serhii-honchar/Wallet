@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<Категории>
+  <Category CategoryName="Алкоголь">
+     
+      <Subcategory SubcategoryName="Вино"/>
+      <Subcategory SubcategoryName="Водка"/>
+      <Subcategory SubcategoryName="Коктейль"/>
+      <Subcategory SubcategoryName="Коньяк"/>
+      <Subcategory SubcategoryName="Пиво"/>
+      <Subcategory SubcategoryName="Сидр"/>
+      <Subcategory SubcategoryName="Слабоалкоголка"/>
+      <Subcategory SubcategoryName="Шампанское"/>
+    <Subcategory SubcategoryName="123"/>
+<Subcategory SubcategoryName="кккк"/>
+<Subcategory SubcategoryName="йукцеркнг"/>
+<Subcategory SubcategoryName="123456789"/>
+<Subcategory SubcategoryName="12314"/>
+<Subcategory SubcategoryName="122122"/>
+<Subcategory SubcategoryName="1234512345"/>
+<Subcategory SubcategoryName="321321321"/>
+<Subcategory SubcategoryName="уккк"/>
+<Subcategory SubcategoryName="54543434"/>
+</Category>
+  <Category CategoryName="Гигиена">
+     
+      <Subcategory SubcategoryName="Антиперспирант"/>
+      <Subcategory SubcategoryName="Гель для душа"/>
+      <Subcategory SubcategoryName="Зубная паста"/>
+      <Subcategory SubcategoryName="Лезвие"/>
+      <Subcategory SubcategoryName="Мочалка"/>
+      <Subcategory SubcategoryName="Мыло"/>
+      <Subcategory SubcategoryName="Порошок"/>
+      <Subcategory SubcategoryName="Салфетки"/>
+      <Subcategory SubcategoryName="Туалетная бумага"/>
+      <Subcategory SubcategoryName="Шампунь"/>
+     
+  </Category>
+  <Category CategoryName="Группа">
+     
+      <Subcategory SubcategoryName="Виньетка"/>
+      <Subcategory SubcategoryName="День рождения"/>
+      <Subcategory SubcategoryName="Кондиционер"/>
+      <Subcategory SubcategoryName="Общак"/>
+      <Subcategory SubcategoryName="Пьянка"/>
+     
+  </Category>
+  <Category CategoryName="Доход">
+     
+      <Subcategory SubcategoryName="Выиграш"/>
+      <Subcategory SubcategoryName="Отдали"/>
+      <Subcategory SubcategoryName="Стиралка"/>
+      <Subcategory SubcategoryName="Холодильник"/>
+     
+  </Category>
+  <Category CategoryName="Еда">
+     
+      <Subcategory SubcategoryName="Арахис"/>
+      <Subcategory SubcategoryName="Бастурма"/>
+      <Subcategory SubcategoryName="Батончик"/>
+      <Subcategory SubcategoryName="Беляши"/>
+      <Subcategory SubcategoryName="Бигмак"/>
+      <Subcategory SubcategoryName="Бисквит"/>
+      <Subcategory SubcategoryName="Бутерброд"/>
+      <Subcategory SubcategoryName="Вафли"/>
+      <Subcategory SubcategoryName="Водка"/>
+      <Subcategory SubcategoryName="Выпечка"/>
+      <Subcategory SubcategoryName="Гамбургер"/>
+      <Subcategory SubcategoryName="Горох"/>
+      <Subcategory SubcategoryName="Горчица"/>
+      <Subcategory SubcategoryName="Гренки"/>
+      <Subcategory SubcategoryName="Гречка"/>
+      <Subcategory SubcategoryName="Гриль голени"/>
+      <Subcategory SubcategoryName="Грудинка гриль"/>
+      <Subcategory SubcategoryName="Жевачка"/>
+      <Subcategory SubcategoryName="Икра мойвы"/>
+      <Subcategory SubcategoryName="Имбирь"/>
+      <Subcategory SubcategoryName="Картофель"/>
+      <Subcategory SubcategoryName="Кекс"/>
+      <Subcategory SubcategoryName="Кетчуп"/>
+      <Subcategory SubcategoryName="Колбаса"/>
+      <Subcategory SubcategoryName="Кофе"/>
+      <Subcategory SubcategoryName="Куры гриль"/>
+      <Subcategory SubcategoryName="Лаваш"/>
+      <Subcategory SubcategoryName="Люля кебаб"/>
+      <Subcategory SubcategoryName="Майонез"/>
+      <Subcategory SubcategoryName="Макароны"/>
+      <Subcategory SubcategoryName="Маккофе"/>
+      <Subcategory SubcategoryName="Масло"/>
+      <Subcategory SubcategoryName="Масло подсолнечное"/>
+      <Subcategory SubcategoryName="Мед"/>
+      <Subcategory SubcategoryName="Мидии"/>
+      <Subcategory SubcategoryName="Морковка по-корейски"/>
+      <Subcategory SubcategoryName="Мороженное"/>
+      <Subcategory SubcategoryName="Мясная тарелка"/>
+      <Subcategory SubcategoryName="Мясо"/>
+      <Subcategory SubcategoryName="Обед"/>
+      <Subcategory SubcategoryName="Обеды"/>
+      <Subcategory SubcategoryName="Оливки"/>
+      <Subcategory SubcategoryName="Орешки"/>
+      <Subcategory SubcategoryName="Отбивная"/>
+      <Subcategory SubcategoryName="Пампушки"/>
+      <Subcategory SubcategoryName="Паштет"/>
+      <Subcategory SubcategoryName="Пельмени"/>
+      <Subcategory SubcategoryName="Печенье"/>
+      <Subcategory SubcategoryName="Пироженное"/>
+      <Subcategory SubcategoryName="Пирожок"/>
+      <Subcategory SubcategoryName="Пицца"/>
+      <Subcategory SubcategoryName="Приправа"/>
+      <Subcategory SubcategoryName="Рис"/>
+      <Subcategory SubcategoryName="Рулет"/>
+      <Subcategory SubcategoryName="Рыба сушенная"/>
+      <Subcategory SubcategoryName="Салат"/>
+      <Subcategory SubcategoryName="Сардины"/>
+      <Subcategory SubcategoryName="Сахар"/>
+      <Subcategory SubcategoryName="Скумбрия"/>
+      <Subcategory SubcategoryName="Сметана"/>
+      <Subcategory SubcategoryName="Сникерс"/>
+      <Subcategory SubcategoryName="Соления"/>
+      <Subcategory SubcategoryName="Сосиска в тесте"/>
+      <Subcategory SubcategoryName="Сосиски"/>
+      <Subcategory SubcategoryName="Спагетти"/>
+      <Subcategory SubcategoryName="Суп"/>
+      <Subcategory SubcategoryName="Сухарики"/>
+      <Subcategory SubcategoryName="Сухофрукты"/>
+      <Subcategory SubcategoryName="Суши"/>
+      <Subcategory SubcategoryName="Сыр"/>
+      <Subcategory SubcategoryName="Сыр панне"/>
+      <Subcategory SubcategoryName="Сырковая масса"/>
+      <Subcategory SubcategoryName="Терамису"/>
+      <Subcategory SubcategoryName="Тунец"/>
+      <Subcategory SubcategoryName="Хлеб"/>
+      <Subcategory SubcategoryName="Хот-дог"/>
+      <Subcategory SubcategoryName="Хрен"/>
+      <Subcategory SubcategoryName="Чебурек"/>
+      <Subcategory SubcategoryName="Чипсы"/>
+      <Subcategory SubcategoryName="Шаурма"/>
+      <Subcategory SubcategoryName="Шашлык"/>
+      <Subcategory SubcategoryName="Шинка"/>
+      <Subcategory SubcategoryName="Шоколад"/>
+      <Subcategory SubcategoryName="Шпроты"/>
+      <Subcategory SubcategoryName="Яйца"/>
+     
+  </Category>
+  <Category CategoryName="Доходы">
+     
+      <Subcategory SubcategoryName="Зарплата"/>
+      <Subcategory SubcategoryName="Компенсация"/>
+     
+  </Category>
+  <Category CategoryName="Здоровье">
+     
+      <Subcategory SubcategoryName="Нокспрей"/>
+      <Subcategory SubcategoryName="Стоматология"/>
+     
+  </Category>
+  <Category CategoryName="Канцтовары">
+     
+      <Subcategory SubcategoryName="Тетради"/>
+      <Subcategory SubcategoryName="Открытка"/>
+     
+  </Category>
+  <Category CategoryName="Клубы">
+     
+      <Subcategory SubcategoryName="Сорри бабушка"/>
+      <Subcategory SubcategoryName="Бионика"/>
+      <Subcategory SubcategoryName="Дакота"/>
+      <Subcategory SubcategoryName="Саксон"/>
+     
+  </Category>
+  <Category CategoryName="Комната">
+     
+      <Subcategory SubcategoryName="Общак"/>
+      <Subcategory SubcategoryName="Уборка"/>
+     
+  </Category>
+  <Category CategoryName="Купоны">
+     
+      <Subcategory SubcategoryName="Чай"/>
+     
+  </Category>
+  <Category CategoryName="Напитки">
+    
+      <Subcategory SubcategoryName="Вода"/>
+      <Subcategory SubcategoryName="Вода питьевая"/>
+      <Subcategory SubcategoryName="Вода сладкая"/>
+      <Subcategory SubcategoryName="Йогурт"/>
+      <Subcategory SubcategoryName="Квас"/>
+      <Subcategory SubcategoryName="Кефир"/>
+      <Subcategory SubcategoryName="Кока-кола"/>
+      <Subcategory SubcategoryName="Кофе"/>
+      <Subcategory SubcategoryName="Минеральная"/>
+      <Subcategory SubcategoryName="Молоко"/>
+      <Subcategory SubcategoryName="Молоко топленное"/>
+      <Subcategory SubcategoryName="Пепси"/>
+      <Subcategory SubcategoryName="Ряжанка"/>
+      <Subcategory SubcategoryName="Сок"/>
+      <Subcategory SubcategoryName="Спрайт"/>
+      <Subcategory SubcategoryName="Фанта"/>
+      <Subcategory SubcategoryName="Чай"/>
+      <Subcategory SubcategoryName="Чай жидкий"/>
+     
+  </Category>
+  <Category CategoryName="Одежда">
+    
+      <Subcategory SubcategoryName="Запонки и зажим"/>
+      <Subcategory SubcategoryName="Значок"/>
+      <Subcategory SubcategoryName="Кошелек"/>
+      <Subcategory SubcategoryName="Носки"/>
+      <Subcategory SubcategoryName="Сумка"/>
+      <Subcategory SubcategoryName="Тапочки"/>
+      <Subcategory SubcategoryName="Туфли"/>
+      <Subcategory SubcategoryName="Футболка"/>
+      <Subcategory SubcategoryName="Шапка"/>
+      <Subcategory SubcategoryName="Шорты"/>
+     
+  </Category>
+  <Category CategoryName="Подарили">
+          <Subcategory SubcategoryName="День рождение"/>
+      <Subcategory SubcategoryName="Сестра"/>
+     
+  </Category>
+  <Category CategoryName="Подарок">
+      <Subcategory SubcategoryName="Сидей"/>
+      <Subcategory SubcategoryName="Степанов"/>
+      <Subcategory SubcategoryName="Хральцова"/>
+     
+  </Category>
+  <Category CategoryName="Посуда">
+      <Subcategory SubcategoryName="Заварник"/>
+     
+  </Category>
+  <Category CategoryName="Работа">
+      <Subcategory SubcategoryName="Благотворительность"/>
+      <Subcategory SubcategoryName="Интернет"/>
+      <Subcategory SubcategoryName="Общак"/>
+     
+  </Category>
+  <Category CategoryName="Разное">
+      <Subcategory SubcategoryName="Емкости"/>
+      <Subcategory SubcategoryName="Ключи"/>
+      <Subcategory SubcategoryName="Пакет"/>
+      <Subcategory SubcategoryName="Потерял"/>
+      <Subcategory SubcategoryName="Распределить"/>
+      <Subcategory SubcategoryName="Стаканчики"/>
+      <Subcategory SubcategoryName="Чаевые"/>
+      <Subcategory SubcategoryName="Шарики"/>
+     
+  </Category>
+  <Category CategoryName="Ремонт">
+      <Subcategory SubcategoryName="Краска"/>
+      <Subcategory SubcategoryName="Часы"/>
+     
+  </Category>
+  <Category CategoryName="Связь">
+      <Subcategory SubcategoryName="МТС"/>
+      <Subcategory SubcategoryName="Жираф"/>
+      <Subcategory SubcategoryName="Интертелеком"/>
+      <Subcategory SubcategoryName="Лайф"/>
+      <Subcategory SubcategoryName="Утел"/>
+     
+  </Category>
+  <Category CategoryName="Спорт">
+      <Subcategory SubcategoryName="Билеты футбол"/>
+      <Subcategory SubcategoryName="Бильярд"/>
+     
+  </Category>
+  <Category CategoryName="Техника">
+      <Subcategory SubcategoryName="Батарейки"/>
+      <Subcategory SubcategoryName="Планшет"/>
+      <Subcategory SubcategoryName="Телефон"/>
+     
+  </Category>
+  <Category CategoryName="Транспорт">
+      <Subcategory SubcategoryName="Такси"/>
+      <Subcategory SubcategoryName="Автобус"/>
+      <Subcategory SubcategoryName="Возврат билета"/>
+      <Subcategory SubcategoryName="Маршрутка"/>
+      <Subcategory SubcategoryName="Метро"/>
+      <Subcategory SubcategoryName="Поезд"/>
+      <Subcategory SubcategoryName="Попутка"/>
+      <Subcategory SubcategoryName="Троллейбус"/>
+     
+  </Category>
+  <Category CategoryName="Услуги">
+      <Subcategory SubcategoryName="Карточка"/>
+      <Subcategory SubcategoryName="Почта"/>
+      <Subcategory SubcategoryName="Стрижка"/>
+     
+  <Subcategory SubcategoryName="ффффф"/>
+</Category>
+  
+  
+
+</Категории>
+
